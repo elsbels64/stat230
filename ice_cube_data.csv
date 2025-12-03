@@ -1,0 +1,67 @@
+individual,treatment,salt_type,salt amount,time,time_minutes
+1,1 iodized,iodized,1.0,02:18:00,138
+2,1 iodized,iodized,1.0,02:18:00,138
+3,1 kosher,kosher,1.0,02:06:00,126
+4,no salt iodized,iodized,0.0,03:08:00,188
+5,1 iodized,iodized,1.0,01:54:00,114
+6,1 iodized,iodized,1.0,01:53:00,113
+7,1 kosher,kosher,1.0,01:45:00,105
+8,no salt kosher,kosher,0.0,03:00:00,180
+9,1 iodized,iodized,1.0,02:16:00,136
+10,1/8 kosher,kosher,0.125,02:06:00,126
+11,no salt iodized,iodized,0.0,02:46:00,166
+12,1/8 kosher,kosher,0.125,02:39:00,159
+13,no salt iodized,iodized,0.0,02:15:00,135
+14,1 kosher,kosher,1.0,01:53:00,113
+15,no salt kosher,kosher,0.0,03:14:00,194
+16,1/8 iodized,iodized,0.125,02:38:00,158
+17,no salt iodized,iodized,0.0,03:02:00,182
+18,1 iodized,iodized,1.0,01:45:00,105
+19,1 iodized,iodized,1.0,02:04:00,124
+20,1/8 iodized,iodized,0.125,02:19:00,139
+21,no salt kosher,kosher,0.0,03:03:00,183
+22,1/8 kosher,kosher,0.125,02:07:00,127
+23,1/8 iodized,iodized,0.125,02:37:00,157
+24,no salt kosher,kosher,0.0,03:24:00,204
+25,1/8 kosher,kosher,0.125,02:36:00,156
+26,1 kosher,kosher,1.0,02:07:00,127
+27,1 iodized,iodized,1.0,02:03:00,123
+28,no salt iodized,iodized,0.0,03:02:00,182
+29,no salt kosher,kosher,0.0,03:02:00,182
+30,1 kosher,kosher,1.0,01:45:00,105
+31,1/8 iodized,iodized,0.125,02:19:00,139
+32,1/8 iodized,iodized,0.125,02:19:00,139
+33,1 iodized,iodized,1.0,02:09:00,129
+34,1/8 iodized,iodized,0.125,02:46:00,166
+35,1/8 iodized,iodized,0.125,02:53:00,173
+36,1/8 iodized,iodized,0.125,02:55:00,175
+37,1 iodized,iodized,1.0,02:28:00,148
+38,no salt iodized,iodized,0.0,03:04:00,184
+39,no salt iodized,iodized,0.0,03:18:00,198
+40,1/8 kosher,kosher,0.125,02:20:00,140
+41,no salt iodized,iodized,0.0,03:01:00,181
+42,no salt iodized,iodized,0.0,03:05:00,185
+43,no salt kosher,kosher,0.0,03:00:00,180
+44,1/8 kosher,kosher,0.125,02:28:00,148
+45,1 kosher,kosher,1.0,02:04:00,124
+46,1/8 iodized,iodized,0.125,02:39:00,159
+47,1 kosher,kosher,1.0,02:30:00,150
+48,no salt kosher,kosher,0.0,02:24:00,144
+49,1/8 iodized,iodized,0.125,02:28:00,148
+50,no salt iodized,iodized,0.0,03:19:00,199
+51,1/8 iodized,iodized,0.125,01:20:00,80
+52,1 kosher,kosher,1.0,01:49:00,109
+53,no salt kosher,kosher,0.0,03:23:00,203
+54,no salt kosher,kosher,0.0,03:11:00,191
+55,1/8 kosher,kosher,0.125,02:32:00,152
+56,no salt kosher,kosher,0.0,03:28:00,208
+57,1 kosher,kosher,1.0,01:59:00,119
+58,1/8 kosher,kosher,0.125,02:48:00,168
+59,1 kosher,kosher,1.0,02:10:00,130
+60,1/8 kosher,kosher,0.125,02:31:00,151
+61,1 kosher,kosher,1.0,02:00:00,120
+62,no salt kosher,kosher,0.0,03:03:00,183
+63,1 iodized,iodized,1.0,02:37:00,157
+64,1/8 kosher,kosher,0.125,02:11:00,131
+65,no salt iodized,iodized,0.0,03:14:00,194
+66,1/8 kosher,kosher,0.125,02:35:00,155
